@@ -1,14 +1,23 @@
 [
 	{
-		"data":"7",
-		"seke":"100"
+		"img1":"ggt",
+		"link1":"gg",
+		"tedad":"1"
 	},
 	{
-		"data":"8",
-		"seke":"123"
-        },
-        {
-                "data":"9",
-                "seke":"200"
+		"img1":"fff",
+		"img2":"gff",
+		"img3":"t",
+		"link1":"hgf",
+		"link2":"hgf",
+		"link3":"ggf",
+		"tedad":"3"
+	},
+	{
+		"img1":"hgg",
+		"img2":"f",
+		"link1":"ggr",
+		"link2":"ftr",
+		"tedad":"2"
 	}
 ]
