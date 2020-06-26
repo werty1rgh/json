@@ -1,12 +1,1 @@
-[
-	{
-		"data":"1",
-		"img":"fd",
-		"matn":" با کلیک رویه ایندکمه میتوانید گروه خود را ایجاد کنید",
-		"name":"کانال و گروه شما",
-		"ozv":"2341",
-		"server":"",
-		"tedad":"12",
-		"zaman":"12:40"
-	}
-]
+[ 	{ 		"data":"2", 		"img":"https://scs606.iranlms.ir/picture/2020-06-26-23/0e75f925-f74f-4059-958c-36f385baf837", 		"matn":"سلام اموزشات نابی داریم", 		"name":"هولوتیم", 		"ozv":"12122", 		"server":"https://github.com/werty1rgh/json/raw/master/hooloo", 		"tedad":"  1  ", 		"zaman":"12:40" 	} ]
