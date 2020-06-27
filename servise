@@ -70,7 +70,7 @@
 		"data2":"00",
 		"img1":"https://storage1.gap.im/assets/images/10/202004/1299739/ff800fe042-5e9b54407a1ed8c0008b7e20.jpeg?configs=eyJiYWNrZ3JvdW5kIjoiZmZmZmZmIn0=",
 		"img2":"https://storage1.gap.im/assets/images/10/202004/1299739/2fcc424c0c-5e9b54407a1ed8d9018b7d9d.jpeg?configs=eyJiYWNrZ3JvdW5kIjoiZmZmZmZmIn0=",
-		"link":"ایندکمهدرایناپدیتدردسترسنیست",
+		"link":"این دکمه از طرف ادمین مسدود شده",
 		"link1":"ایندکمهبهدلایلنامعلومیاجرانمیشود",
 		"link2":"f",
 		"tedad":"2"
@@ -83,6 +83,20 @@
 		"link1":"t",
 		"link2":"f",
 		"tedad":"2"
+	},
+	{
+		"data1":"00",
+		"img1":"https://scs605.iranlms.ir/picture/2020-06-27-20/871ca0a0-537b-42d2-bd9a-78af32bc0cf5",
+		"link":"این بخش در امار ۳هزار کانال @panelrubika_info",
+		"link1":"yg",
+		"tedad":"1"
+	},
+	{
+		"data1":"00",
+		"img1":"https://storage1.gap.im/assets/images/10/202002/1299739/7f19bc82e9-5e36d4867a1ed8d3be8b50ef.jpeg?configs=eyJiYWNrZ3JvdW5kIjoiZmZmZmZmIn0=",
+		"link":"این دکمه در امار سه هزار @panelrubika_info",
+		"link1":"nh",
+		"tedad":"1"
 	},
 	{
 		"data1":"570",
