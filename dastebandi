@@ -1,1 +1,22 @@
-gfd
+<section class="rlp-content">
+				<div class="rlp-profile-wrap">
+					<div class="profile-img">
+                        <img id="img" class="profile-img" src="https://scs603.iranlms.ir/picture/2020-05-19-00/4949a1d3-8502-407b-9418-f98b44064936" alt="sinabeta">
+					</div>
+				</div>
+				<div class="rlp-content-document-wrap text-center">
+					<div class="rlp-content-caption-wrap">
+						sinabeta
+					</div>
+					<div class="rlp-content-peer-wrap">
+						<span class="rlp-content-peer number-persian">44</span>
+						<span class="rlp-content-peer">دنبال کننده</span>
+					</div>
+					<div class="rlp-content-add-wrap">
+                        <a href="rubika://p.rubika.ir/DOyCoUssSm" class="rlp-content-add">مشاهده پست</a>
+					</div>
+					<div class="rlp-content-info-wrap">
+						<span class="rlp-content-info">‌</span>
+					</div>
+				</div>
+			</section>
