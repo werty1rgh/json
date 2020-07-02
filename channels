@@ -1,18 +1,68 @@
 [
 	{
+		"img":"ff",
+		"link":"rubika://l.rubika.ir/MCPEYar",
+		"name":"f"
+	},
+	{
+		"img":"ff",
+		"link":"rubika://l.rubika.ir/minecraft7400",
+		"name":"f"
+	},
+	{
+		"img":"ff",
+		"link":"rubika://l.rubika.ir/",
+		"name":"f"
+	},
+	{
+		"img":"ff",
+		"link":"rubika://l.rubika.ir/",
+		"name":"f"
+	},
+	{
+		"img":"ff",
+		"link":"rubika://l.rubika.ir/",
+		"name":"f"
+	},
+	{
+		"img":"ff",
+		"link":"rubika://l.rubika.ir/",
+		"name":"f"
+	},
+	{
+		"img":"rr",
+		"link":"rubika://l.rubika.ir/Miner_Baze_Pro",
+		"name":"ماینربازحرفهای"
+	},
+	{
+		"img":"rr",
+		"link":"rubika://l.rubika.ir/Hes_royai",
+		"name":"حسنرویایی"
+	},
+	{
+		"img":"rr",
+		"link":"rubika://l.rubika.ir/hacker_pro11",
+		"name":"💻HACKERANPRO💻"
+	},
+	{
+		"img":"rr",
+		"link":"rubika://l.rubika.ir/iran_hack_apps_orgl",
+		"name":"༒︎ʰᵃᶜᵏ𝙸𝚁𝙰𝙽𝙷𝙰𝙲𝙺ʰᵃᶜᵏ༒︎"
+	},
+	{
 		"img":"https://scs603.iranlms.ir/picture/2020-07-02-16/83464984-fd81-41af-8ae0-85357c2ced92",
 		"link":"rubika://l.rubika.ir/Jokstan_khandh",
-		"name":"جوکستان خنده"
+		"name":"جوکستانخنده"
 	},
 	{
 		"img":"https://scs605.iranlms.ir/picture/2020-07-02-16/72993129-cdfc-4a5d-a051-0ab5aac39bf4",
 		"link":"rubika://l.rubika.ir/PERSAN_CODE",
-		"name":"پرسان کد"
+		"name":"پرسانکد"
 	},
 	{
 		"img":"https://scs618.iranlms.ir/picture/2020-07-02-16/1c3bbf02-b041-4a39-8fee-50693bb6b5f2",
 		"link":"rubika://l.rubika.ir/ETTEATOMOMI",
-		"name":"بازی و برنامه"
+		"name":"بازیوبرنامه"
 	},
 	{
 		"img":"f",
@@ -22,12 +72,12 @@
 	{
 		"img":"f",
 		"link":"rubika://l.rubika.ir/write_program",
-		"name":"آموزشات برنامه نویسی"
+		"name":"آموزشاتبرنامهنویسی"
 	},
 	{
 		"img":"f",
 		"link":"rubika://l.rubika.ir/Fox_team",
-		"name":"تیم برنامه سازی روباه"
+		"name":"تیمبرنامهسازیروباه"
 	},
 	{
 		"img":"f",
