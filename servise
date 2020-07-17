@@ -1,11 +1,5 @@
 [
 	{
-		"data1":"4677",
-		"img1":"https://scs608.iranlms.ir/picture/2020-07-08-08/5feb0bcd-b3e1-482f-beb6-a157bc68ba3b",
-		"link1":"",
-		"tedad":"1"
-	},
-	{
 		"data1":"1",
 		"img1":"https://scs609.iranlms.ir/picture/2020-06-28-01/4df7e791-5a3d-4b2c-9074-34bd6341e13b",
 		"link1":"https://scs616.iranlms.ir/picture/2020-06-28-01/36ed915a-980d-4112-9d37-30235601a889",
@@ -15,9 +9,9 @@
 	},
 	{
 		"data1":"1",
-		"img1":"https://scs611.iranlms.ir/picture/2020-07-04-13/e17d7f1e-020b-4cde-ac6d-75ff4b60d7a0",
-		"link1":"https://rubika://l.rubika.ir/panelrubika_info",
-		"linkup":"https://rubika://l.rubika.ir/panelrubika_info",
+		"img1":"https://scs609.iranlms.ir/picture/2020-07-17-08/ccdead5c-61ce-46ef-bfc5-dc32d91aa80f",
+		"link1":"rubika://l.rubika.ir/panelrubika_info",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
 		"tedad":"1",
 		"versian":"۱1.4"
 	},
@@ -310,6 +304,86 @@
 		"link1":"gg",
 		"linkup":"rubika://l.rubika.ir/panelrubika_info",
 		"tedad":"4",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs615.iranlms.ir/picture/2020-07-17-08/4b325b36-0797-44b4-97e4-94320b0ac6a6",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs618.iranlms.ir/picture/2020-07-16-07/577e340b-4dcc-41d0-aae5-d2eb1b297226",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs607.iranlms.ir/picture/2020-07-16-07/cb028aa8-2ee2-47ac-a55d-822b7a000a2d",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs608.iranlms.ir/picture/2020-07-16-07/7ec9b66f-b265-4078-9afa-75d57202b1ef",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs610.iranlms.ir/picture/2020-07-16-07/95e02a80-b3a2-49cc-8f8d-2d95d3ebc53e",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs604.iranlms.ir/picture/2020-07-16-07/a2f6a701-7f0d-4d7a-9002-46ea326100f1",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs607.iranlms.ir/picture/2020-07-16-07/907d60a1-b3df-4fb1-a7c3-bf3782f479b5",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs619.iranlms.ir/picture/2020-07-16-07/08971221-3f53-4a1c-a1c2-6bb1d4f099a8",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs601.iranlms.ir/picture/2020-07-16-07/666de388-3aae-4a73-9472-9f86c7bca8fc",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
+		"versian":"۱1.4"
+	},
+	{
+		"data1":"544",
+		"img1":"https://scs601.iranlms.ir/picture/2020-07-16-07/983d2203-2ea4-4f92-970b-898839875d79",
+		"link1":"gg",
+		"linkup":"rubika://l.rubika.ir/panelrubika_info",
+		"tedad":"1",
 		"versian":"۱1.4"
 	}
 ]
