@@ -1,5 +1,6 @@
 [
 	{
+		"bio":"H",
 		"data":"1",
 		"img":"https://scs606.iranlms.ir/picture/2020-06-26-23/0e75f925-f74f-4059-958c-36f385baf837",
 		"matn":"سلام",
@@ -7,9 +8,11 @@
 		"ozv":"12122",
 		"server":"https://github.com/werty1rgh/json/raw/master/hooloo",
 		"tedad":"۱",
+		"user":"Hoolootame",
 		"zaman":"12:40"
 	},
 	{
+		"bio":"G",
 		"data":"3",
 		"img":"https://scs606.iranlms.ir/picture/2020-06-26-23/0e75f925-f74f-4059-958c-36f385baf837",
 		"matn":"کانالرسمیروبیگپ|پنلروبیکا",
@@ -17,6 +20,7 @@
 		"ozv":"23k",
 		"server":"https://github.com/werty1rgh/json/raw/master/panelrubika",
 		"tedad":"۲",
+		"User":"panelrubika",
 		"zaman":"امروز"
 	}
 ]
