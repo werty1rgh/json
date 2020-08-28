@@ -1,10 +1,10 @@
 {
-		"ستاره":"https://rubika.ir",
-		"لینک اپدیت":"الب",
-		"نسخه":"11.0",
-		"ویو":"3764",
-		"کانال":"panelrubika_info",
-		"کانال ها":"https://github.com/werty1rgh/json/raw/master/channels",
-                "سرویس ها":"https://github.com/werty1rgh/json/raw/master/servise",
-                "پیام":"https://github.com/werty1rgh/json/raw/master/%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF%20%D9%87%D8%A7%DB%8C%20%D9%BE%D9%86%D9%84%DB%8C%DA%A9%D8%A7"
-	}
+	"ستاره":"https://rubika.ir",
+	"سرویس ها":"https://github.com/werty1rgh/json/raw/master/servise",
+	"لینک اپدیت":"الب",
+	"نسخه":"11.0",
+	"ویو":"3764",
+	"پیام":"https://github.com/werty1rgh/json/raw/master/رویداد های پنلیکا",
+	"کانال":"panelrubika_info",
+	"کانال ها":"https://github.com/werty1rgh/json/raw/master/channels"
+}
